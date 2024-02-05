@@ -1,0 +1,17 @@
+title: ExtremeX
+email: tito@extreme.local
+description: >- # this means to ignore newlines until "baseurl:"
+  ExtremeX is a blog about extreme sports and the people who love them.
+  It is a place to share your experiences and learn from others.
+  We are a community of people who love to push the limits and live life to the fullest.
+  Join us and share your stories, tips, and tricks with the world.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+github_username:  tito
+github_repo:      tito-extremex/blog
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
