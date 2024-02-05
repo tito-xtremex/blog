@@ -2,7 +2,7 @@
 layout: post
 title:  "Bem-vindo ao XtremeX!"
 date:   2024-02-05 08:28:41 -0300
-categories: jekyll update
+categories: ad
 ---
 
 Olá estou começando a escrever no blog da empresa XtremeX. A ideia é que eu escreva sobre tecnologia, mas também sobre o que aprendi sobre segurança da informação.
